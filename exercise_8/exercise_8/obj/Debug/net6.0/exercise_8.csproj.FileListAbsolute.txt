@@ -1,0 +1,15 @@
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\bin\Debug\net6.0\exercise_8.exe
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\bin\Debug\net6.0\exercise_8.deps.json
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\bin\Debug\net6.0\exercise_8.runtimeconfig.json
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\bin\Debug\net6.0\exercise_8.dll
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\bin\Debug\net6.0\exercise_8.pdb
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.csproj.AssemblyReference.cache
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.AssemblyInfoInputs.cache
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.AssemblyInfo.cs
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.csproj.CoreCompileInputs.cache
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.dll
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\refint\exercise_8.dll
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.pdb
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\exercise_8.genruntimeconfig.cache
+C:\Users\adrian.stude\Documents\Prog2\cs\exercise_8\exercise_8\obj\Debug\net6.0\ref\exercise_8.dll
